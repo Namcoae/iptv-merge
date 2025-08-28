@@ -1,0 +1,5 @@
+#EXTM3U
+EXTINF:-1 tvg-id="BBCPersian"tvg-nam=BBC Persiangroup-titele="News",BBC Persian
+https://vs-h1s-ww.live.cf.md.bbci.co.uk/persian/index.m3u8
+EXTINF:-1 tvg-id="VOAPersian"tvg-name=VOA Persian"group-title="News",VOAPersian
+https://voa-1h.akamaihd.net/i/voapnnsp1_d@320622/index_1_av-p.m3u8
